@@ -1,4 +1,4 @@
-/* #define CATCH_CONFIG_MAIN
+#define CATCH_CONFIG_MAIN
 #include "catch.hpp"
 
 #include "Corpus.h"
@@ -112,4 +112,4 @@ TEST_CASE("Deck tests") {
 		REQUIRE(cards[3].GetFront() == "sí");
 		REQUIRE(cards[3].GetBack() == "yes");
 	}
-} */
+}
