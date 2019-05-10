@@ -1,0 +1,22 @@
+{
+  "deck_name_": "basic_spanish",
+  "cards_" :
+  [
+    {
+      "front_": "hola",
+      "back_": "hello"
+    },
+    {
+      "front_": "perro",
+      "back_": "dog"
+    },
+    {
+      "front_": "gato",
+      "back_": "cat"
+    },
+    {
+      "front_": "sí",
+      "back_": "yes"
+    }
+  ]
+}
